@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><resources>
+    <targetDirectory>data\target-directory-0930</targetDirectory>
+    <targetDatabase>main</targetDatabase>
+    <url>jdbc:sqlserver://localhost:1433;databaseName=main;encrypt=true;trustServerCertificate=true;</url>
+    <user>admin</user>
+    <password>password</password>    
+</resources>
